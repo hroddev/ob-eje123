@@ -1,4 +1,4 @@
-package com.example.obeje123;
+package com.example.obeje123.ejercicio1;
 
 public class Hello {
     private String message;
